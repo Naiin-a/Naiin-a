@@ -33,7 +33,7 @@
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/Naiin-a/Naiin-a/output/snake.svg" alt="Snake animation" />
 
